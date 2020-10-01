@@ -1,0 +1,234 @@
+{
+    "@babel/plugin-transform-react-jsx@7.10.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/babel/babel",
+        "licenseUrl": "https://github.com/babel/babel/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "@react-native-community/async-storage@1.12.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-community/react-native-async-storage",
+        "licenseUrl": "https://github.com/react-native-community/react-native-async-storage/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "@react-native-community/cli-platform-android@3.0.3": {
+        "licenses": "MIT",
+        "parents": "beLLed"
+    },
+    "@react-native-community/masked-view@0.1.10": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-community/react-native-masked-view",
+        "licenseUrl": "https://github.com/react-native-community/react-native-masked-view",
+        "parents": "beLLed"
+    },
+    "@react-navigation/drawer@5.9.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "@react-navigation/material-bottom-tabs@5.2.18": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "@react-navigation/native@5.7.5": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "@react-navigation/stack@5.9.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-navigation/react-navigation",
+        "licenseUrl": "https://github.com/react-navigation/react-navigation/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "appcenter-analytics@3.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Microsoft/appcenter-sdk-react-native",
+        "licenseUrl": "https://github.com/Microsoft/appcenter-sdk-react-native/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "appcenter-crashes@3.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Microsoft/appcenter-sdk-react-native",
+        "licenseUrl": "https://github.com/Microsoft/appcenter-sdk-react-native/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "appcenter@3.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/microsoft/appcenter-sdk-react-native",
+        "licenseUrl": "https://github.com/microsoft/appcenter-sdk-react-native/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "babel-plugin-transform-react-jsx-source@6.22.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-source",
+        "licenseUrl": "https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-react-jsx-source",
+        "parents": "beLLed"
+    },
+    "color@3.1.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/Qix-/color",
+        "licenseUrl": "https://github.com/Qix-/color/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "deepmerge@4.2.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/TehShrike/deepmerge",
+        "licenseUrl": "https://github.com/TehShrike/deepmerge/raw/master/license.txt",
+        "parents": "beLLed"
+    },
+    "expo-splash-screen@0.6.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "beLLed"
+    },
+    "expo-status-bar@1.0.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "beLLed"
+    },
+    "expo-updates@0.3.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "beLLed"
+    },
+    "expo@39.0.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo",
+        "parents": "beLLed"
+    },
+    "jest-react-native@18.0.0": {
+        "licenses": "BSD-3-Clause",
+        "repository": "https://github.com/facebook/jest",
+        "licenseUrl": "https://github.com/facebook/jest",
+        "parents": "beLLed"
+    },
+    "npm-license-crawler@0.2.1": {
+        "licenses": "BSD-3-Clause",
+        "repository": "http://github.com/mwittig/npm-license-crawler",
+        "licenseUrl": "http://github.com/mwittig/npm-license-crawler/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-dom@16.13.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-appearance@0.3.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/react-native-appearance",
+        "licenseUrl": "https://github.com/expo/react-native-appearance/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-ble-plx@2.0.1": {
+        "licenses": "Apache-2.0",
+        "repository": "https://github.com/Polidea/react-native-ble-plx",
+        "licenseUrl": "https://github.com/Polidea/react-native-ble-plx/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-dynamic@1.0.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/codemotionapps/react-native-dynamic",
+        "licenseUrl": "https://github.com/codemotionapps/react-native-dynamic/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-elements@2.3.2": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-elements/react-native-elements",
+        "licenseUrl": "https://github.com/react-native-elements/react-native-elements/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-gesture-handler@1.7.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/software-mansion/react-native-gesture-handler",
+        "licenseUrl": "https://github.com/software-mansion/react-native-gesture-handler/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-paper@4.2.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/callstack/react-native-paper",
+        "licenseUrl": "https://github.com/callstack/react-native-paper/raw/master/LICENSE.md",
+        "parents": "beLLed"
+    },
+    "react-native-reanimated@1.13.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/software-mansion/react-native-reanimated",
+        "licenseUrl": "https://github.com/software-mansion/react-native-reanimated/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-restart@0.0.17": {
+        "licenses": "MIT",
+        "repository": "https://github.com/avishayil/react-native-restart",
+        "licenseUrl": "https://github.com/avishayil/react-native-restart/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-safe-area-context@3.1.4": {
+        "licenses": "MIT",
+        "repository": "https://github.com/th3rdwave/react-native-safe-area-context",
+        "licenseUrl": "https://github.com/th3rdwave/react-native-safe-area-context/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-screens@2.10.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/kmagiera/react-native-screens",
+        "licenseUrl": "https://github.com/kmagiera/react-native-screens/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-sensitive-info@5.5.8": {
+        "licenses": "MIT",
+        "repository": "https://github.com/mcodex/react-native-sensitive-info",
+        "licenseUrl": "https://github.com/mcodex/react-native-sensitive-info/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-tab-view@2.15.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-community/react-native-tab-view",
+        "licenseUrl": "https://github.com/react-native-community/react-native-tab-view/raw/master/LICENSE.md",
+        "parents": "beLLed"
+    },
+    "react-native-unimodules@0.11.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/expo/expo",
+        "licenseUrl": "https://github.com/expo/expo/raw/master/LICENSE.md",
+        "parents": "beLLed"
+    },
+    "react-native-vector-icons@7.1.0": {
+        "licenses": "MIT",
+        "repository": "https://github.com/oblador/react-native-vector-icons",
+        "licenseUrl": "https://github.com/oblador/react-native-vector-icons/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native-web@0.13.14": {
+        "licenses": "MIT",
+        "repository": "https://github.com/necolas/react-native-web",
+        "licenseUrl": "https://github.com/necolas/react-native-web",
+        "parents": "beLLed"
+    },
+    "react-native-webview@10.9.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/react-native-community/react-native-webview",
+        "licenseUrl": "https://github.com/react-native-community/react-native-webview/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react-native@0.63.3": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react-native",
+        "licenseUrl": "https://github.com/facebook/react-native/raw/master/LICENSE",
+        "parents": "beLLed"
+    },
+    "react@16.13.1": {
+        "licenses": "MIT",
+        "repository": "https://github.com/facebook/react",
+        "licenseUrl": "https://github.com/facebook/react/raw/master/LICENSE",
+        "parents": "beLLed"
+    }
+}

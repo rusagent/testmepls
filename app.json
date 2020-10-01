@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "beLLed",
+    "slug": "beLLed",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#1ba1f2"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rootbois.beLLed"
+    },
+    "android": {
+      "package": "com.rootbois.beLLed"
+    }
+  }
+}
